@@ -11,3 +11,5 @@ To execute this Aleo program, run:
 ```bash
 snarkvm run hello
 ```
+
+Discord: utah_8o
